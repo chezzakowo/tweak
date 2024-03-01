@@ -1,6 +1,4 @@
 <Response>
-    <Say voice="man" language="vi-VN">Trời Việt Nam!</Say>
-    <Pause length="2"/>
     <Play>https://www.myinstants.com/media/sounds/reaverkill1.mp3</Play>
     <Play>https://www.myinstants.com/media/sounds/reaverkill2.mp3</Play>
     <Play>https://www.myinstants.com/media/sounds/reaverkill3.mp3</Play>
